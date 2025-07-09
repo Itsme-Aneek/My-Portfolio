@@ -2,8 +2,6 @@
 
 # Modern Space Theme Portfolio using Next.js 14 and Three.js
 
-![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Space Theme Portfolio using Next.js 14 and Three.js")
-
 <!-- Table of Contents -->
 <details>
 
