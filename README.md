@@ -2,9 +2,6 @@
 
 # Modern Space Theme Portfolio using Next.js 14 and Three.js
 
-<!-- Table of Contents -->
-<details>
-
 Here is the folder structure of this app.
 
 ```bash
@@ -64,6 +61,9 @@ space-portfolio/
 3. Open terminal in root directory. Run `npm install --legacy-peer-deps` or `yarn install --legacy-peer-deps`.
 
 4. Now app is fully configured 👍 and you can start using this app using `npm run dev` or `yarn dev`.
+
+# Site Link
+https://aneek-portfolio.vercel.app/
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
